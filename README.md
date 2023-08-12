@@ -1,6 +1,6 @@
 # proyecto06
 
-<h1 style="red";>/PS/</h1>
+<h1>/PS/</h1>
 
 Entrega de proyecto 06.
 
